@@ -1,0 +1,280 @@
+/*---------------搭框架临时用的 START---------------*/
+.box {
+  //border: 1px solid #333;
+  box-sizing: border-box;
+  padding: 0 10px;
+}
+
+.sec {
+  margin-top: 10px;
+}
+
+/*---------------搭框架临时用的 END---------------*/
+
+
+/*---------------PC移动共用 START---------------*/
+html {
+  display: none;
+}
+
+html[style] {
+  display: block;
+}
+
+html,
+body,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: $fontSize;
+  color: $fontColor;
+  line-height: 26PX;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  color: $fontColor;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.iconfont {
+  color: #484848;
+}
+
+.a-green,
+.a-yellow,
+.a-red {
+  cursor: pointer;
+}
+
+a.a-green,
+.a-green {
+  color: $colorGreen;
+}
+
+a.a-yellow,
+.a-yellow {
+  color: $colorYellow;
+}
+
+a.a-red,
+.a-red {
+  color: $colorRed;
+}
+
+.a-icon-right {
+  margin-left: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+// footer沉底
+.app-container {
+  display: flex;
+}
+.gxn-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.body-container {
+  flex-grow: 1;
+}
+
+.main-container {
+  margin: 0 auto;
+}
+
+.float-wrap {
+  overflow: hidden;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.flex-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-item {
+  flex: 1;
+}
+
+.ul-h {
+  overflow: hidden;
+}
+
+.ul-h li {
+  float: left;
+  margin: 0 10px;
+}
+
+.layout-main-right .left {
+  width: 1000px;
+}
+
+.layout-main-right .right {
+  width: 190px;
+  margin-left: 10px;
+}
+
+.bg-img {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-color: $bgColorGray;
+}
+
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ellipsis2 {
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.theme-color {
+  color: $colorGreen;
+}
+
+// 解决级联面板样式高度被覆盖的问题
+.el-cascader-menu__wrap {
+  height: 204px !important;
+}
+
+/*---------------PC移动共用 END---------------*/
+
+
+/*---------------仅PC端 START---------------*/
+.RootNotMobile {
+  a:visited {
+    color: $fontColor;
+  }
+
+  a:hover {
+    color: $colorGreen;
+  }
+
+  a.a-green:visited {
+    color: $colorGreen;
+  }
+
+  a.a-yellow:visited {
+    color: $colorYellow;
+  }
+
+  a.a-red:visited {
+    color: $colorRed;
+  }
+
+  a.a-green,
+  a.a-yellow,
+  a.a-red,
+  .a-green,
+  .a-yellow,
+  .a-red {
+    &:hover {
+      color: $fontColor;
+    }
+  }
+
+  .main-container {
+    width: 1220px;
+  }
+
+  .gxn-container {
+    min-width: 768PX;
+  }
+
+  .hide-md {
+    display: none !important;
+  }
+}
+
+/*---------------仅PC端 END---------------*/
+
+
+/*---------------仅移动端 START---------------*/
+.RootIsMobile {
+  .box {
+    padding: 0;
+  }
+
+  body {
+    background: $bgColorGray;
+  }
+
+  .gxn-container {
+    padding-top: 155px;
+  }
+
+  .body-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .page-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  a:active {
+    color: $colorGreen;
+  }
+
+  a.a-green,
+  a.a-yellow,
+  a.a-red {
+    &:active {
+      color: $fontColor;
+    }
+  }
+
+  .main-container {
+    width: 750px;
+  }
+
+  .hide-xs {
+    display: none !important;
+  }
+
+  .clickable {
+    &:active {
+      background: $bgColorGray;
+    }
+  }
+
+}
+
+/*---------------仅移动端 END---------------*/

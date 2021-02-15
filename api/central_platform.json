@@ -1,0 +1,1030 @@
+{
+    "businessList": [
+        {
+            "businessId": "798236462188466177",
+            "businessName": "工程建设",
+            "infoTypeList": [
+                {
+                    "infoTypeId": "798236462188466178",
+                    "infoTypeName": "不限",
+                    "tradeList": [
+                        {
+                            "dictLabel": "不限",
+                            "dictValue": "0"
+                        },
+                        {
+                            "dictLabel": "农业",
+                            "dictValue": "1"
+                        },
+                        {
+                            "dictLabel": "林业",
+                            "dictValue": "2"
+                        },
+                        {
+                            "dictLabel": "畜牧业",
+                            "dictValue": "3"
+                        },
+                        {
+                            "dictLabel": "渔业",
+                            "dictValue": "4"
+                        },
+                        {
+                            "dictLabel": "农",
+                            "dictValue": "5"
+                        },
+                        {
+                            "dictLabel": "林",
+                            "dictValue": "6"
+                        },
+                        {
+                            "dictLabel": "牧",
+                            "dictValue": "7"
+                        },
+                        {
+                            "dictLabel": "渔服务业",
+                            "dictValue": "8"
+                        },
+                        {
+                            "dictLabel": "煤炭开采和洗选业",
+                            "dictValue": "9"
+                        },
+                        {
+                            "dictLabel": "石油和天然气开采业",
+                            "dictValue": "10"
+                        },
+                        {
+                            "dictLabel": "黑色金属矿采选业",
+                            "dictValue": "11"
+                        },
+                        {
+                            "dictLabel": "有色金屋矿采选业",
+                            "dictValue": "12"
+                        },
+                        {
+                            "dictLabel": "食品制造业",
+                            "dictValue": "13"
+                        },
+                        {
+                            "dictLabel": "烟草制品业",
+                            "dictValue": "14"
+                        },
+                        {
+                            "dictLabel": "纺织业",
+                            "dictValue": "15"
+                        },
+                        {
+                            "dictLabel": "家具制造业",
+                            "dictValue": "16"
+                        },
+                        {
+                            "dictLabel": "医药制造业",
+                            "dictValue": "17"
+                        },
+                        {
+                            "dictLabel": "化学纤维制造业",
+                            "dictValue": "18"
+                        },
+                        {
+                            "dictLabel": "金属制品业",
+                            "dictValue": "19"
+                        },
+                        {
+                            "dictLabel": "通用设备制造业",
+                            "dictValue": "20"
+                        },
+                        {
+                            "dictLabel": "汽车制造业",
+                            "dictValue": "21"
+                        },
+                        {
+                            "dictLabel": "电气机械和器材制造业",
+                            "dictValue": "22"
+                        },
+                        {
+                            "dictLabel": "电力",
+                            "dictValue": "23"
+                        },
+                        {
+                            "dictLabel": "热力生产和供应业",
+                            "dictValue": "24"
+                        },
+                        {
+                            "dictLabel": "水的生产和供应业",
+                            "dictValue": "25"
+                        },
+                        {
+                            "dictLabel": "房屋建筑业",
+                            "dictValue": "26"
+                        },
+                        {
+                            "dictLabel": "建筑装饰和其他建筑业",
+                            "dictValue": "27"
+                        },
+                        {
+                            "dictLabel": "铁路运输业",
+                            "dictValue": "28"
+                        },
+                        {
+                            "dictLabel": "航空运输业",
+                            "dictValue": "29"
+                        },
+                        {
+                            "dictLabel": "软件和信息技术服务业",
+                            "dictValue": "30"
+                        },
+                        {
+                            "dictLabel": "房地产业",
+                            "dictValue": "31"
+                        },
+                        {
+                            "dictLabel": "商务服务业",
+                            "dictValue": "32"
+                        },
+                        {
+                            "dictLabel": "水利管理业",
+                            "dictValue": "33"
+                        },
+                        {
+                            "dictLabel": "生态保护和环境治理业",
+                            "dictValue": "34"
+                        }
+                    ]
+                },
+                {
+                    "infoTypeId": "798236462188466179",
+                    "infoTypeName": "\n招标/资审公告",
+                    "tradeList": [
+                        {
+                            "dictLabel": "不限",
+                            "dictValue": "0"
+                        },
+                        {
+                            "dictLabel": "农业",
+                            "dictValue": "1"
+                        },
+                        {
+                            "dictLabel": "林业",
+                            "dictValue": "2"
+                        },
+                        {
+                            "dictLabel": "畜牧业",
+                            "dictValue": "3"
+                        },
+                        {
+                            "dictLabel": "渔业",
+                            "dictValue": "4"
+                        },
+                        {
+                            "dictLabel": "农",
+                            "dictValue": "5"
+                        },
+                        {
+                            "dictLabel": "林",
+                            "dictValue": "6"
+                        },
+                        {
+                            "dictLabel": "牧",
+                            "dictValue": "7"
+                        },
+                        {
+                            "dictLabel": "渔服务业",
+                            "dictValue": "8"
+                        },
+                        {
+                            "dictLabel": "煤炭开采和洗选业",
+                            "dictValue": "9"
+                        },
+                        {
+                            "dictLabel": "石油和天然气开采业",
+                            "dictValue": "10"
+                        },
+                        {
+                            "dictLabel": "黑色金属矿采选业",
+                            "dictValue": "11"
+                        },
+                        {
+                            "dictLabel": "有色金屋矿采选业",
+                            "dictValue": "12"
+                        },
+                        {
+                            "dictLabel": "食品制造业",
+                            "dictValue": "13"
+                        },
+                        {
+                            "dictLabel": "烟草制品业",
+                            "dictValue": "14"
+                        },
+                        {
+                            "dictLabel": "纺织业",
+                            "dictValue": "15"
+                        },
+                        {
+                            "dictLabel": "家具制造业",
+                            "dictValue": "16"
+                        },
+                        {
+                            "dictLabel": "医药制造业",
+                            "dictValue": "17"
+                        },
+                        {
+                            "dictLabel": "化学纤维制造业",
+                            "dictValue": "18"
+                        },
+                        {
+                            "dictLabel": "金属制品业",
+                            "dictValue": "19"
+                        },
+                        {
+                            "dictLabel": "通用设备制造业",
+                            "dictValue": "20"
+                        },
+                        {
+                            "dictLabel": "汽车制造业",
+                            "dictValue": "21"
+                        },
+                        {
+                            "dictLabel": "电气机械和器材制造业",
+                            "dictValue": "22"
+                        },
+                        {
+                            "dictLabel": "电力",
+                            "dictValue": "23"
+                        },
+                        {
+                            "dictLabel": "热力生产和供应业",
+                            "dictValue": "24"
+                        },
+                        {
+                            "dictLabel": "水的生产和供应业",
+                            "dictValue": "25"
+                        },
+                        {
+                            "dictLabel": "房屋建筑业",
+                            "dictValue": "26"
+                        },
+                        {
+                            "dictLabel": "建筑装饰和其他建筑业",
+                            "dictValue": "27"
+                        },
+                        {
+                            "dictLabel": "铁路运输业",
+                            "dictValue": "28"
+                        },
+                        {
+                            "dictLabel": "航空运输业",
+                            "dictValue": "29"
+                        },
+                        {
+                            "dictLabel": "软件和信息技术服务业",
+                            "dictValue": "30"
+                        },
+                        {
+                            "dictLabel": "房地产业",
+                            "dictValue": "31"
+                        },
+                        {
+                            "dictLabel": "商务服务业",
+                            "dictValue": "32"
+                        },
+                        {
+                            "dictLabel": "水利管理业",
+                            "dictValue": "33"
+                        },
+                        {
+                            "dictLabel": "生态保护和环境治理业",
+                            "dictValue": "34"
+                        }
+                    ]
+                },
+                {
+                    "infoTypeId": "798236462188466180",
+                    "infoTypeName": "\n开标记录",
+                    "tradeList": [
+                        {
+                            "dictLabel": "不限",
+                            "dictValue": "0"
+                        },
+                        {
+                            "dictLabel": "农业",
+                            "dictValue": "1"
+                        },
+                        {
+                            "dictLabel": "林业",
+                            "dictValue": "2"
+                        },
+                        {
+                            "dictLabel": "畜牧业",
+                            "dictValue": "3"
+                        },
+                        {
+                            "dictLabel": "渔业",
+                            "dictValue": "4"
+                        },
+                        {
+                            "dictLabel": "农",
+                            "dictValue": "5"
+                        },
+                        {
+                            "dictLabel": "林",
+                            "dictValue": "6"
+                        },
+                        {
+                            "dictLabel": "牧",
+                            "dictValue": "7"
+                        },
+                        {
+                            "dictLabel": "渔服务业",
+                            "dictValue": "8"
+                        },
+                        {
+                            "dictLabel": "煤炭开采和洗选业",
+                            "dictValue": "9"
+                        },
+                        {
+                            "dictLabel": "石油和天然气开采业",
+                            "dictValue": "10"
+                        },
+                        {
+                            "dictLabel": "黑色金属矿采选业",
+                            "dictValue": "11"
+                        },
+                        {
+                            "dictLabel": "有色金屋矿采选业",
+                            "dictValue": "12"
+                        },
+                        {
+                            "dictLabel": "食品制造业",
+                            "dictValue": "13"
+                        },
+                        {
+                            "dictLabel": "烟草制品业",
+                            "dictValue": "14"
+                        },
+                        {
+                            "dictLabel": "纺织业",
+                            "dictValue": "15"
+                        },
+                        {
+                            "dictLabel": "家具制造业",
+                            "dictValue": "16"
+                        },
+                        {
+                            "dictLabel": "医药制造业",
+                            "dictValue": "17"
+                        },
+                        {
+                            "dictLabel": "化学纤维制造业",
+                            "dictValue": "18"
+                        },
+                        {
+                            "dictLabel": "金属制品业",
+                            "dictValue": "19"
+                        },
+                        {
+                            "dictLabel": "通用设备制造业",
+                            "dictValue": "20"
+                        },
+                        {
+                            "dictLabel": "汽车制造业",
+                            "dictValue": "21"
+                        },
+                        {
+                            "dictLabel": "电气机械和器材制造业",
+                            "dictValue": "22"
+                        },
+                        {
+                            "dictLabel": "电力",
+                            "dictValue": "23"
+                        },
+                        {
+                            "dictLabel": "热力生产和供应业",
+                            "dictValue": "24"
+                        },
+                        {
+                            "dictLabel": "水的生产和供应业",
+                            "dictValue": "25"
+                        },
+                        {
+                            "dictLabel": "房屋建筑业",
+                            "dictValue": "26"
+                        },
+                        {
+                            "dictLabel": "建筑装饰和其他建筑业",
+                            "dictValue": "27"
+                        },
+                        {
+                            "dictLabel": "铁路运输业",
+                            "dictValue": "28"
+                        },
+                        {
+                            "dictLabel": "航空运输业",
+                            "dictValue": "29"
+                        },
+                        {
+                            "dictLabel": "软件和信息技术服务业",
+                            "dictValue": "30"
+                        },
+                        {
+                            "dictLabel": "房地产业",
+                            "dictValue": "31"
+                        },
+                        {
+                            "dictLabel": "商务服务业",
+                            "dictValue": "32"
+                        },
+                        {
+                            "dictLabel": "水利管理业",
+                            "dictValue": "33"
+                        },
+                        {
+                            "dictLabel": "生态保护和环境治理业",
+                            "dictValue": "34"
+                        }
+                    ]
+                },
+                {
+                    "infoTypeId": "798236462188466181",
+                    "infoTypeName": "\n交易结果公示",
+                    "tradeList": [
+                        {
+                            "dictLabel": "不限",
+                            "dictValue": "0"
+                        },
+                        {
+                            "dictLabel": "农业",
+                            "dictValue": "1"
+                        },
+                        {
+                            "dictLabel": "林业",
+                            "dictValue": "2"
+                        },
+                        {
+                            "dictLabel": "畜牧业",
+                            "dictValue": "3"
+                        },
+                        {
+                            "dictLabel": "渔业",
+                            "dictValue": "4"
+                        },
+                        {
+                            "dictLabel": "农",
+                            "dictValue": "5"
+                        },
+                        {
+                            "dictLabel": "林",
+                            "dictValue": "6"
+                        },
+                        {
+                            "dictLabel": "牧",
+                            "dictValue": "7"
+                        },
+                        {
+                            "dictLabel": "渔服务业",
+                            "dictValue": "8"
+                        },
+                        {
+                            "dictLabel": "煤炭开采和洗选业",
+                            "dictValue": "9"
+                        },
+                        {
+                            "dictLabel": "石油和天然气开采业",
+                            "dictValue": "10"
+                        },
+                        {
+                            "dictLabel": "黑色金属矿采选业",
+                            "dictValue": "11"
+                        },
+                        {
+                            "dictLabel": "有色金屋矿采选业",
+                            "dictValue": "12"
+                        },
+                        {
+                            "dictLabel": "食品制造业",
+                            "dictValue": "13"
+                        },
+                        {
+                            "dictLabel": "烟草制品业",
+                            "dictValue": "14"
+                        },
+                        {
+                            "dictLabel": "纺织业",
+                            "dictValue": "15"
+                        },
+                        {
+                            "dictLabel": "家具制造业",
+                            "dictValue": "16"
+                        },
+                        {
+                            "dictLabel": "医药制造业",
+                            "dictValue": "17"
+                        },
+                        {
+                            "dictLabel": "化学纤维制造业",
+                            "dictValue": "18"
+                        },
+                        {
+                            "dictLabel": "金属制品业",
+                            "dictValue": "19"
+                        },
+                        {
+                            "dictLabel": "通用设备制造业",
+                            "dictValue": "20"
+                        },
+                        {
+                            "dictLabel": "汽车制造业",
+                            "dictValue": "21"
+                        },
+                        {
+                            "dictLabel": "电气机械和器材制造业",
+                            "dictValue": "22"
+                        },
+                        {
+                            "dictLabel": "电力",
+                            "dictValue": "23"
+                        },
+                        {
+                            "dictLabel": "热力生产和供应业",
+                            "dictValue": "24"
+                        },
+                        {
+                            "dictLabel": "水的生产和供应业",
+                            "dictValue": "25"
+                        },
+                        {
+                            "dictLabel": "房屋建筑业",
+                            "dictValue": "26"
+                        },
+                        {
+                            "dictLabel": "建筑装饰和其他建筑业",
+                            "dictValue": "27"
+                        },
+                        {
+                            "dictLabel": "铁路运输业",
+                            "dictValue": "28"
+                        },
+                        {
+                            "dictLabel": "航空运输业",
+                            "dictValue": "29"
+                        },
+                        {
+                            "dictLabel": "软件和信息技术服务业",
+                            "dictValue": "30"
+                        },
+                        {
+                            "dictLabel": "房地产业",
+                            "dictValue": "31"
+                        },
+                        {
+                            "dictLabel": "商务服务业",
+                            "dictValue": "32"
+                        },
+                        {
+                            "dictLabel": "水利管理业",
+                            "dictValue": "33"
+                        },
+                        {
+                            "dictLabel": "生态保护和环境治理业",
+                            "dictValue": "34"
+                        }
+                    ]
+                },
+                {
+                    "infoTypeId": "798236462188466182",
+                    "infoTypeName": "\n招标/资审文件澄清",
+                    "tradeList": [
+                        {
+                            "dictLabel": "不限",
+                            "dictValue": "0"
+                        },
+                        {
+                            "dictLabel": "农业",
+                            "dictValue": "1"
+                        },
+                        {
+                            "dictLabel": "林业",
+                            "dictValue": "2"
+                        },
+                        {
+                            "dictLabel": "畜牧业",
+                            "dictValue": "3"
+                        },
+                        {
+                            "dictLabel": "渔业",
+                            "dictValue": "4"
+                        },
+                        {
+                            "dictLabel": "农",
+                            "dictValue": "5"
+                        },
+                        {
+                            "dictLabel": "林",
+                            "dictValue": "6"
+                        },
+                        {
+                            "dictLabel": "牧",
+                            "dictValue": "7"
+                        },
+                        {
+                            "dictLabel": "渔服务业",
+                            "dictValue": "8"
+                        },
+                        {
+                            "dictLabel": "煤炭开采和洗选业",
+                            "dictValue": "9"
+                        },
+                        {
+                            "dictLabel": "石油和天然气开采业",
+                            "dictValue": "10"
+                        },
+                        {
+                            "dictLabel": "黑色金属矿采选业",
+                            "dictValue": "11"
+                        },
+                        {
+                            "dictLabel": "有色金屋矿采选业",
+                            "dictValue": "12"
+                        },
+                        {
+                            "dictLabel": "食品制造业",
+                            "dictValue": "13"
+                        },
+                        {
+                            "dictLabel": "烟草制品业",
+                            "dictValue": "14"
+                        },
+                        {
+                            "dictLabel": "纺织业",
+                            "dictValue": "15"
+                        },
+                        {
+                            "dictLabel": "家具制造业",
+                            "dictValue": "16"
+                        },
+                        {
+                            "dictLabel": "医药制造业",
+                            "dictValue": "17"
+                        },
+                        {
+                            "dictLabel": "化学纤维制造业",
+                            "dictValue": "18"
+                        },
+                        {
+                            "dictLabel": "金属制品业",
+                            "dictValue": "19"
+                        },
+                        {
+                            "dictLabel": "通用设备制造业",
+                            "dictValue": "20"
+                        },
+                        {
+                            "dictLabel": "汽车制造业",
+                            "dictValue": "21"
+                        },
+                        {
+                            "dictLabel": "电气机械和器材制造业",
+                            "dictValue": "22"
+                        },
+                        {
+                            "dictLabel": "电力",
+                            "dictValue": "23"
+                        },
+                        {
+                            "dictLabel": "热力生产和供应业",
+                            "dictValue": "24"
+                        },
+                        {
+                            "dictLabel": "水的生产和供应业",
+                            "dictValue": "25"
+                        },
+                        {
+                            "dictLabel": "房屋建筑业",
+                            "dictValue": "26"
+                        },
+                        {
+                            "dictLabel": "建筑装饰和其他建筑业",
+                            "dictValue": "27"
+                        },
+                        {
+                            "dictLabel": "铁路运输业",
+                            "dictValue": "28"
+                        },
+                        {
+                            "dictLabel": "航空运输业",
+                            "dictValue": "29"
+                        },
+                        {
+                            "dictLabel": "软件和信息技术服务业",
+                            "dictValue": "30"
+                        },
+                        {
+                            "dictLabel": "房地产业",
+                            "dictValue": "31"
+                        },
+                        {
+                            "dictLabel": "商务服务业",
+                            "dictValue": "32"
+                        },
+                        {
+                            "dictLabel": "水利管理业",
+                            "dictValue": "33"
+                        },
+                        {
+                            "dictLabel": "生态保护和环境治理业",
+                            "dictValue": "34"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "platformList": [
+        {
+            "platformId": "806602611745755136",
+            "platformName": "不限"
+        },
+        {
+            "platformId": "806602611745755137",
+            "platformName": "中国化工装备招投标交易平台"
+        },
+        {
+            "platformId": "806602611745755138",
+            "platformName": "中国兵器电子招标投标交易平台"
+        },
+        {
+            "platformId": "806602611745755139",
+            "platformName": "中国电力设备信息网电子招标交易平台"
+        },
+        {
+            "platformId": "806602611745755140",
+            "platformName": "中国长江三峡集团公司电子采购平台"
+        },
+        {
+            "platformId": "806602611745755141",
+            "platformName": "中国石化电子招标投标交易平台(物资装备)"
+        },
+        {
+            "platformId": "806602611745755142",
+            "platformName": "中国交建物资采购管理信息系统"
+        },
+        {
+            "platformId": "806602611745755143",
+            "platformName": "中国交建装备采购管理信息系统"
+        },
+        {
+            "platformId": "806602611745755144",
+            "platformName": "国家电网公司电子商务平台"
+        },
+        {
+            "platformId": "806602611745755145",
+            "platformName": "中国兵器装备集团有限公司招标投标交易平台"
+        },
+        {
+            "platformId": "806602611745755146",
+            "platformName": "国电集团电子招投标平台"
+        },
+        {
+            "platformId": "806602611745755147",
+            "platformName": "中国石化电子招标投标交易平台(工程、服务)"
+        },
+        {
+            "platformId": "806602611745755148",
+            "platformName": "国家开发投资公司电子采购平台"
+        },
+        {
+            "platformId": "806602611745755149",
+            "platformName": "南水北调中线建管局招标采购交易平台"
+        },
+        {
+            "platformId": "806602611745755150",
+            "platformName": "航空工业电子采购平台电子招投标专区"
+        },
+        {
+            "platformId": "806602611754143744",
+            "platformName": "中国移动电子采购与招标投标系统"
+        },
+        {
+            "platformId": "806602611754143745",
+            "platformName": "神华招标网"
+        },
+        {
+            "platformId": "806602611754143746",
+            "platformName": "中国石油电子招投标交易平台"
+        },
+        {
+            "platformId": "806602611754143747",
+            "platformName": "中航招标平台"
+        },
+        {
+            "platformId": "806602611754143748",
+            "platformName": "中煤电子招投标平台"
+        },
+        {
+            "platformId": "806602611754143749",
+            "platformName": "大唐电子商务平台"
+        },
+        {
+            "platformId": "806602611754143750",
+            "platformName": "中国大唐集团公司电子商务平台"
+        },
+        {
+            "platformId": "806602611754143751",
+            "platformName": "中铁建电子采购平台"
+        },
+        {
+            "platformId": "806602611754143752",
+            "platformName": "中国航天科技电子采购平台"
+        },
+        {
+            "platformId": "806602611754143753",
+            "platformName": "招商局集团电子招标采购交易平台"
+        },
+        {
+            "platformId": "806602611754143754",
+            "platformName": "中国华电集团公司电子商务平台"
+        },
+        {
+            "platformId": "806602611754143755",
+            "platformName": "航发网上商城电子招投标专区"
+        },
+        {
+            "platformId": "806602611754143756",
+            "platformName": "中国华能集团电子招投标系统"
+        },
+        {
+            "platformId": "806602611754143757",
+            "platformName": "冀中能源集团招标投标电子交易平台"
+        },
+        {
+            "platformId": "806602611754143758",
+            "platformName": "内蒙古电力集团电子商务系统"
+        },
+        {
+            "platformId": "806602611754143759",
+            "platformName": "鞍钢集团电子招标投标交易平台"
+        },
+        {
+            "platformId": "806602611754143760",
+            "platformName": "中国一汽电子招标采购交易平台"
+        },
+        {
+            "platformId": "806602611754143761",
+            "platformName": "吉林国投招标投标交易平台"
+        },
+        {
+            "platformId": "806602611754143762",
+            "platformName": "上海宝华电子招投标交易平台"
+        },
+        {
+            "platformId": "806602611754143763",
+            "platformName": "中交舟山公司招标采购平台"
+        },
+        {
+            "platformId": "806602611754143764",
+            "platformName": "浪潮集团采购电子商务平台"
+        },
+        {
+            "platformId": "806602611754143765",
+            "platformName": "东风招投标交易中心电子交易平台"
+        },
+        {
+            "platformId": "806602611754143766",
+            "platformName": "武钢电子招标投标平台"
+        },
+        {
+            "platformId": "806602611754143767",
+            "platformName": "中国南方电网电子商务系统"
+        },
+        {
+            "platformId": "806602611754143768",
+            "platformName": "中铝集团电子招投标平台"
+        },
+        {
+            "platformId": "806602611754143769",
+            "platformName": "中国核工业集团有限公司电子采购平台"
+        },
+        {
+            "platformId": "806602611754143770",
+            "platformName": "中企云商电子招投标系统"
+        },
+        {
+            "platformId": "806602611754143771",
+            "platformName": "中国交建物资采购管理信息系统"
+        },
+        {
+            "platformId": "806602611754143772",
+            "platformName": "中国电建设备物资集中采购平台"
+        },
+        {
+            "platformId": "806602611754143773",
+            "platformName": "华润置地采购云平台"
+        },
+        {
+            "platformId": "806602611754143774",
+            "platformName": "中国通用招标网"
+        },
+        {
+            "platformId": "806602611754143775",
+            "platformName": "国家电网公司电子商务平台"
+        },
+        {
+            "platformId": "806602611754143776",
+            "platformName": "中广核电子商务平台"
+        },
+        {
+            "platformId": "806602611754143777",
+            "platformName": "中国电信阳光采购网电子招投标交易平台"
+        },
+        {
+            "platformId": "806602611754143778",
+            "platformName": "云筑网"
+        },
+        {
+            "platformId": "806602611754143779",
+            "platformName": "中国节能环保集团有限公司电子采购平台"
+        },
+        {
+            "platformId": "806602611754143780",
+            "platformName": "华润集团守正电子招标平台"
+        },
+        {
+            "platformId": "806602611754143781",
+            "platformName": "中国海洋石油集团有限公司采办业务管理与交易系统"
+        },
+        {
+            "platformId": "806602611754143782",
+            "platformName": "华侨城电子招采平台"
+        },
+        {
+            "platformId": "806602611754143783",
+            "platformName": "中国电建公共资源交易系统"
+        },
+        {
+            "platformId": "806602611754143784",
+            "platformName": "铁建云商电子商务平台"
+        },
+        {
+            "platformId": "806602611754143785",
+            "platformName": "中国五矿集团采购电子商务平台"
+        },
+        {
+            "platformId": "806602611754143786",
+            "platformName": "中国联通电子招标投标交易平台"
+        },
+        {
+            "platformId": "806602611754143787",
+            "platformName": "中化商务电子招投标平台"
+        },
+        {
+            "platformId": "806602611754143788",
+            "platformName": "北大荒电子招标平台"
+        },
+        {
+            "platformId": "806602611754143789",
+            "platformName": "铁建汇采工程物资设备电商平台"
+        },
+        {
+            "platformId": "806602611754143790",
+            "platformName": "CEC电子采购平台"
+        },
+        {
+            "platformId": "806602611754143791",
+            "platformName": "中国中铁采购电子商务平台"
+        },
+        {
+            "platformId": "806602611754143792",
+            "platformName": "中远海运集团采购及供应商管理系统"
+        },
+        {
+            "platformId": "806602611754143793",
+            "platformName": "国铁采购平台"
+        },
+        {
+            "platformId": "806602611754143794",
+            "platformName": "航空工业电子招投标平台"
+        },
+        {
+            "platformId": "806602611754143795",
+            "platformName": "宝华智慧招标共享平台"
+        },
+        {
+            "platformId": "806602611754143796",
+            "platformName": "东航集团集采实施平台"
+        },
+        {
+            "platformId": "806602611754143797",
+            "platformName": "通号物资集团电子商务平台"
+        },
+        {
+            "platformId": "806602611754143798",
+            "platformName": "中国有色集团采购招标电子商务平台"
+        },
+        {
+            "platformId": "806602611754143799",
+            "platformName": "中国能源建设集团电子采购平台"
+        },
+        {
+            "platformId": "806602611754143800",
+            "platformName": "中国航空油料集团采购管理信息系统"
+        }
+    ]
+}

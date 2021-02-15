@@ -1,0 +1,46 @@
+{
+  "name": "guangxinna",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "cross-env NUXT_ENV_MODE=test nuxt build",
+    "build-pre": "cross-env NUXT_ENV_MODE=pre nuxt build",
+    "build-prd": "cross-env NUXT_ENV_MODE=prd nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "3000"
+    }
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "amfe-flexible": "^2.2.1",
+    "cookie-universal-nuxt": "^2.1.4",
+    "cookieparser": "^0.1.0",
+    "core-js": "^3.6.5",
+    "crypto-js": "^4.0.0",
+    "element-ui": "^2.13.2",
+    "js-cookie": "^2.2.1",
+    "nuxt": "^2.14.6",
+    "nuxt-winston-log": "^1.2.0",
+    "postcss-pxtorem": "^5.1.1",
+    "vant": "^2.12.4",
+    "vue-dompurify-html": "^2.3.0",
+    "vue-quill-editor": "^3.0.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/proxy": "^2.1.0",
+    "babel-plugin-component": "^1.1.1",
+    "babel-plugin-import": "^1.13.3",
+    "element-theme-chalk": "^2.14.1",
+    "less": "^3.12.2",
+    "less-loader": "^7.1.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
+  }
+}

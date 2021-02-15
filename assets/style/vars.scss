@@ -1,0 +1,92 @@
+$fontSizeS: 12PX;
+$fontSize: 14PX;
+$fontSizeL: 16PX;
+$fontSizeXL: 18PX;
+$fontSize2XL: 20PX;
+$fontSize3XL: 22PX;
+$fontSize4XL: 24PX;
+
+$fontSizeOddS: 13PX;
+$fontSizeOdd: 15PX;
+$fontSizeOddL: 17PX;
+
+$fontColor2XLight: #ccc;
+$fontColorXLight: #999999;
+$fontColorLight: #666666;
+$fontColor: #333333;
+$fontColorDark: #263238;
+
+$colorGreen: #00A64A;
+//$colorBlue: #4C96FA;
+//76, 150, 250
+$colorBlue: #29ACFF;
+//41,172,255
+//$colorBlue: #3E6CE1; 
+//62,108,225
+$colorYellow: #FD9A1A;
+$colorRed: #FF292E;
+$colorWhite: #fff;
+$colorOrange: #FF7B2C;
+
+$bgColorGrayLight: #F8F8F8;
+$bgColorGray: #F6F8FA;
+$bgColorGreen: #e6f6ed;
+$bgColorBlue:#eaf7ff;
+$bgColorYellow: #fff5e8;
+$bgColorRed:#ffeaea;
+
+$borderColorLight: #E9EBE8;
+$borderColor: #DDDDDD;
+$borderColorGray:#707070;
+$borderColorGreen: #cceddb;
+$borderColorDark:#263238;
+$borderColorInput: #E5E5E5;
+$borderColorInputDark: #CCCCCC;
+
+$shadow: 0px 1px 12px 0px rgba(71, 79, 84, 0.14);
+$shadowLight: 0px 0px 10px 0px #EEEEEE;
+// $shadow: 0px 0px 16px 0px rgba(157, 166, 179, 0.2);
+// $shadow: 0px 4px 20px 0px rgba(125, 136, 153, 0.1);
+
+$borderRadiusXS: 2px;
+$borderRadiusS: 4px;
+$borderRadius: 6px;
+
+:export {
+  fontSizeS: $fontSizeS;
+  fontSize: $fontSize;
+  fontSizeL: $fontSizeL;
+  fontSizeXL: $fontSizeXL;
+  fontSize2XL: $fontSize2XL;
+  fontSize3XL: $fontSize3XL;
+  fontSizeOddS: $fontSizeOddS;
+  fontSizeOdd: $fontSizeOdd;
+  fontSizeOddL: $fontSizeOddL;
+  fontColorXLight: $fontColorXLight;
+  fontColorLight: $fontColorLight;
+  fontColorDark: $fontColorDark;
+  colorGreen: $colorGreen;
+  colorBlue: $colorBlue;
+  colorYellow: $colorYellow;
+  colorRed: $colorRed;
+  colorWhite: $colorWhite;
+  colorOrange: $colorOrange;
+  bgColorGrayLight: $bgColorGrayLight;
+  bgColorGray: $bgColorGray;
+  bgColorGreen: $bgColorGreen;
+  bgColorBlue: $bgColorBlue;
+  bgColorYellow: $bgColorYellow;
+  bgColorRed: $bgColorRed;
+  borderColorLight: $borderColorLight;
+  borderColor: $borderColor;
+  borderColorDark: $borderColorDark;
+  borderColorGray: $borderColorGray;
+  borderColorGreen: $borderColorGreen;
+  borderColorInput: $borderColorInput;
+  borderColorInputDark: $borderColorInputDark;
+  shadow: $shadow;
+  shadowLight: $shadowLight;
+  borderRadiusXS: $borderRadiusXS;
+  borderRadiusS: $borderRadiusS;
+  borderRadius: $borderRadius;
+}
